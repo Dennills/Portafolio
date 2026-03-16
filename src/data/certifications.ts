@@ -9,7 +9,7 @@ export const certifications: Certification[] = [
     institution: 'UNI',
     date: 'Dic 2024',
     description: 'Creación de dashboards interactivos con DAX, KPIs y visualizaciones para análisis de datos empresariales.',
-    image: '/src/assets/loguni.png',
+    image: '/loguni.png',
     /*
     actionButton: {
     label: "Ver certificado",
@@ -23,7 +23,7 @@ export const certifications: Certification[] = [
     institution: 'UNI',
     date: 'Nov 2024',
     description: 'Análisis exploratorio de datos con Python para detección de patrones, correlaciones y outliers.',
-    image: '/src/assets/loguni.png',
+    image: '/loguni.png',
     /*
     actionButton: {
     label: "Ver certificado",
